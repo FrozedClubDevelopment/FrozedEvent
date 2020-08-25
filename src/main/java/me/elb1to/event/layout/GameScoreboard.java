@@ -1,10 +1,9 @@
 package me.elb1to.event.layout;
 
-import me.elb1to.event.utils.CC;
-import org.bukkit.ChatColor;
-import org.bukkit.entity.Player;
 import me.elb1to.event.player.PlayerManager;
+import me.elb1to.event.utils.CC;
 import me.elb1to.event.utils.scoreboard.AssembleAdapter;
+import org.bukkit.entity.Player;
 
 import java.util.ArrayList;
 import java.util.List;
