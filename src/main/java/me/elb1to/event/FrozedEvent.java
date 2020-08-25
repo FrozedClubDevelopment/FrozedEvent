@@ -11,7 +11,8 @@ import me.elb1to.event.utils.scoreboard.AssembleStyle;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
-@Getter @Setter
+@Getter
+@Setter
 public class FrozedEvent extends JavaPlugin {
 
     public static FrozedEvent instance;
