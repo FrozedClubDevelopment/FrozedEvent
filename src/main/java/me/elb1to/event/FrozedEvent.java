@@ -2,7 +2,11 @@ package me.elb1to.event;
 
 import lombok.Getter;
 import lombok.Setter;
-import me.elb1to.event.commands.*;
+import me.elb1to.event.commands.FinishCommand;
+import me.elb1to.event.commands.FrozedEventCommand;
+import me.elb1to.event.commands.PlayerStateCommand;
+import me.elb1to.event.commands.ReviveCommand;
+import me.elb1to.event.commands.StartCommand;
 import me.elb1to.event.layout.GameScoreboard;
 import me.elb1to.event.player.PlayerListener;
 import me.elb1to.event.utils.framework.CommandFramework;
